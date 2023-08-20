@@ -1,0 +1,2 @@
+// a placeholder large text
+text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.";
